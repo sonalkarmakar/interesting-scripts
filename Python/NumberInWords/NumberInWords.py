@@ -66,8 +66,3 @@ while number > 0:
 
 # Final output of the given number in words
 print (output_words.rstrip (" ,"))
-
-'''
-for i in range (0, 1000):
-	print (str (i) + "\t" + three_digit_group (i))
-'''
